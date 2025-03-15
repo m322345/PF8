@@ -39,14 +39,14 @@ L’objectif est de réaliser une **veille technique** sur une **technique de mo
   - Conclusion et recommandations
 
 ## 📦 Livrables Attendus
-✅ Une **preuve de concept (POC)** avec implémentation de la nouvelle technique.
-✅ Une **note méthodologique** expliquant la démarche et les résultats.
-✅ Une **présentation synthétique**.
-✅ Une **comparaison détaillée** entre la méthode récente et l’approche classique.
+- ✅ Une **preuve de concept (POC)** avec implémentation de la nouvelle technique.
+- ✅ Une **note méthodologique** expliquant la démarche et les résultats.
+- ✅ Une **présentation synthétique**.
+- ✅ Une **comparaison détaillée** entre la méthode récente et l’approche classique.
 
 ## 🚀 Objectif Final
 Évaluer la **pertinence d’une avancée récente en NLP**, démontrer sa faisabilité via un **POC**, et formuler des recommandations sur son **intégration potentielle** dans les projets de l’entreprise.
 
 ---
-👥 **Compétences requises** : Veille technologique, NLP, Computer Vision, Machine Learning.
-🌍 **Technologies** : Python, TensorFlow/PyTorch, Hugging Face, Scikit-learn, OpenCV.
+- 👥 **Compétences requises** : Veille technologique, NLP, Computer Vision, Machine Learning.
+- 🌍 **Technologies** : Python, TensorFlow/PyTorch, Hugging Face, Scikit-learn, OpenCV.
