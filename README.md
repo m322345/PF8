@@ -48,5 +48,5 @@ L’objectif est de réaliser une **veille technique** sur une **technique de mo
 Évaluer la **pertinence d’une avancée récente en NLP**, démontrer sa faisabilité via un **POC**, et formuler des recommandations sur son **intégration potentielle** dans les projets de l’entreprise.
 
 ---
-- 👥 **Compétences requises** : Veille technologique, NLP, Computer Vision, Machine Learning.
-- 🌍 **Technologies** : Python, TensorFlow/PyTorch, Hugging Face, Scikit-learn, OpenCV.
+- 👥 **Compétences requises** : Veille technologique, NLP, Machine Learning.
+- 🌍 **Technologies** : Python, Naïve Bayes, CNN.
